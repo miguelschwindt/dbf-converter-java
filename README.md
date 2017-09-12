@@ -6,7 +6,8 @@ Para utilizarlo abra una terminal y ejecute alguna de las opciones que detallo d
 
 # License
 
-MIT License
+[MIT License](https://github.com/miguelschwindt/dbf-converter-java/blob/master/LICENSE) 
+
 
 # Descripción de uso
 
