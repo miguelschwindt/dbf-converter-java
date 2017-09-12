@@ -4,11 +4,11 @@ Conversor de base de datos DBF a archivo .txt separados por tabulaciones o .xls
 El programa viene con el archivo .jar compilado en la carpeta libs del proyecto. Puede utilizar este dbf-converter-java.jar directamente para pasar sus archivos dbf a txt o xls. El comando que debe ejectura depende de la opción que elija. 
 Para utilizarlo abra una terminal y ejecute alguna de las opciones que detallo debajo.
 
-## License
+# License
 
 MIT License
 
-## Descripción de uso
+# Descripción de uso
 
 <pre>
 Debe ingresar 3 parámetros si elije la opción 1; y 4 parametros si elije la opción 2 o 3
